@@ -63,4 +63,4 @@ Now your dev branch will be live at [dev-name].herokuapp.com
 
 Note that you have to add 'dev:master' this time - if you dont add this, Heroku assumes you want the master branch to be deployed.
 
-Your app will now prompt you for a password when accessed on Heroku (but not when running locally).
+Your app will now prompt you for a password when accessed on Heroku - but not when running locally.
