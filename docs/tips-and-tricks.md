@@ -1,6 +1,6 @@
 # Tips and tricks
 
-A few useful things to help you get started.
+Here are a few useful things to help you get started.
 
 ## Adding the propositional navigation to your app
 
